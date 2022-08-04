@@ -12,7 +12,7 @@ const Stories = () => {
                 <Text style={{color:'white'}}>
                     {story.user.length > 11 
                     ? story.user.slice(0,10).toLowerCase() + '...' 
-                    : story.user.toLowerCase()} 
+                    : story.user.toLowerCase()}
                 </Text>
             </View>
             ))}
