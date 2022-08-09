@@ -15,14 +15,14 @@ export const POSTS = [
             {
                 user: 'dwightschrute',
                 comment:
-                "I know what you've been planning to do Toby. Remember I AM THE ASSISTANT REGIONAL MANAGER"
+                "I know what you've been planning."
             },
         ]
     },
     {
         imageURL : 'https://imagenes.elpais.com/resizer/chKCbCF2vAsg-ocin7kw-Yq97zE=/1200x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/BGRBZZZN6LLKZRU6FHJ6DUDI6Y.jpg',
         user: USERS[0].user,
-        likes:20,
+        likes:200,
         caption:"Jim gave me this mug",
         profile_picture: USERS[0].image,
         comments:[
