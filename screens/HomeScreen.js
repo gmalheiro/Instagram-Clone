@@ -1,5 +1,5 @@
 import React from 'react'
-import { View, Text, StyleSheet,SafeAreaView,StatusBar, ScrollView} from 'react-native'
+import { StyleSheet,SafeAreaView,StatusBar, ScrollView} from 'react-native'
 import Header from '../components/home/Header'
 import Post from '../components/home/Post'
 import { POSTS } from '../data/posts'
