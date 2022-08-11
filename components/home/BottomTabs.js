@@ -29,9 +29,9 @@ export const bottomTabIcons = [
     {
       name: 'Profile',
       active:
-        'https://yt3.ggpht.com/ytc/AKedOLRY9Un_v7Xr9dG1F5NEkqGsGSqwqRz0O3w3r1mI=s900-c-k-c0x00ffffff-no-rj',
+        'https://cdn.costumewall.com/wp-content/uploads/2018/09/prison-mike.jpg',
       inactive:
-        'https://yt3.ggpht.com/ytc/AKedOLRY9Un_v7Xr9dG1F5NEkqGsGSqwqRz0O3w3r1mI=s900-c-k-c0x00ffffff-no-rj',
+        'https://cdn.costumewall.com/wp-content/uploads/2018/09/prison-mike.jpg',
     },
   ]
 
